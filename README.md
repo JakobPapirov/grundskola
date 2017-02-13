@@ -1,2 +1,2 @@
 # grundskola
-Will be used as a subdomain for jakobpapirov.se
+This is the main branch. This branch is equal to website.
